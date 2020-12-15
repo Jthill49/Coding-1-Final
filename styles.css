@@ -1,7 +1,5 @@
-index.html{
-    background: url(img/Mountain\ Range.jpg) no repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+title{
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 20px;
 }
