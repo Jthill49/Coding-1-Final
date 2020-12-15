@@ -4,6 +4,28 @@ title{
     font-size: 20px;
 }
 .mountain{
-    width:auto;
-    length: auto;
+    min-width: 1400px;
+    
 }
+.title-text{
+    text-align: center;
+}
+body{
+    background-color: rgb(198, 116, 206);
+    font-family: Georgia;
+    font-size: 14px;
+}
+.logo{
+    height: 56px;
+    width: 56px;
+    border-style: groove;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(177, 85, 185);
+    color: white;
+    text-align: center;
+ }
