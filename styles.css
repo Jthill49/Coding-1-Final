@@ -1,11 +1,7 @@
-.mountain{
-    min-height: 90%;
-    min-width: 1024px;
-
-    width: 90%;
-    height: auto;
-
-    position: fixed;
-    top: 0;
-    left: 0;
+index.html{
+    background: url(img/Mountain\ Range.jpg) no repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
