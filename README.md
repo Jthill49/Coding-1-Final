@@ -1,9 +1,3 @@
 # Coding-1-Final
- These are the starter files for F2020 Coding 1
-
-slide show of moutains
-footer featuring website link
-hand drawn logo
-contact info for more details
-colors apealing to the eye
-
+ 
+ The website I created is about the mountains. It has a slide show of different mountains and views. It has a footer that features the website link. I also made a hand drawn logo it is in the top left hand conner of every page. It features a snowy mountain landscape and a colorful sky, for my website. I have a contact page that you can go to get more information. All my colors are appealing and go nicely with the pictures without being overwhelming. On the about page a have a brief description about myself and what I like to do.  
