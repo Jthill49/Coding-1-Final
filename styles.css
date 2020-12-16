@@ -17,7 +17,7 @@ body{
 }
 .logo{
     height: 56px;
-    width: 56px;
+    width: 60px;
     border-style: groove;
 }
 .footer {
@@ -40,5 +40,12 @@ body{
  p{
      font-weight: bold;
      color:white;
-     text-shadow: .5px .5px;
+     font-variant: normal;
+ }
+ .about-picture{
+     height: 300px;
+     width: 500px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
  }
